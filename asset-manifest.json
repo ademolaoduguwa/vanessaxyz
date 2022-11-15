@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vanessaxyz/static/css/main.073c9b0a.css",
+    "main.js": "/vanessaxyz/static/js/main.a78c3e6e.js",
+    "static/js/787.821aed08.chunk.js": "/vanessaxyz/static/js/787.821aed08.chunk.js",
+    "static/media/logo.svg": "/vanessaxyz/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vanessaxyz/index.html",
+    "main.073c9b0a.css.map": "/vanessaxyz/static/css/main.073c9b0a.css.map",
+    "main.a78c3e6e.js.map": "/vanessaxyz/static/js/main.a78c3e6e.js.map",
+    "787.821aed08.chunk.js.map": "/vanessaxyz/static/js/787.821aed08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a78c3e6e.js"
+  ]
+}
